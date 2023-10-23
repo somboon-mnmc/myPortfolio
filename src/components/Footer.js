@@ -30,7 +30,7 @@ function Footer() {
         </Col>
         <Col md="3" className="footer-body">
           <ul className="footer-icons">
-            <h3>Edit by me, Phurich :D</h3>
+            <h3>Edit by me, Somboon</h3>
             {/* <li className="social-icons">
               <a
                 href="https://github.com/soumyajit4419"

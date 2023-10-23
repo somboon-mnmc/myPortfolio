@@ -17,16 +17,7 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={findHat}
-              isBlog={false}
-              title="Find you hat"
-              description="Capstone project for Codeacademy, prove that learner can make javascript file that can run on terminal. This one didn't have demo. If you want to try please clone project from github"
-              ghLink="https://github.com/usamimipyoi/find--your--hat"
-              /* demoLink="https://colmar-31-jsd5.vercel.app/" */
-            />
-          </Col>
+          
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -34,7 +25,7 @@ function Projects() {
               isBlog={false}
               title="Colmar Academy"
               description="Capstone project for Codeacademy, prove that learner can make static website with html and CSS"
-              ghLink="https://github.com/usamimipyoi/colmar--exam--UwU"
+              ghLink="https://github.com/somboon-mnmc/colmar-project"
               demoLink="https://colmar-31-jsd5.vercel.app/"
             />
           </Col>

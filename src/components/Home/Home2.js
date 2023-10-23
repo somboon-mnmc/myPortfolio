@@ -63,7 +63,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/usamimipyoi"
+                  href="https://github.com/somboon-mnmc"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -73,7 +73,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/phurich-twy/"
+                  href="https://www.linkedin.com/in/sb-mnmc/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -83,7 +83,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="mailto:phurich.twy@gmail.com"
+                  href="mailto:somboon.mnmc@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
